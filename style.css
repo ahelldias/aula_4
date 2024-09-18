@@ -3,9 +3,10 @@
 }
 
 main{
+    border: 2px solid whitesmoke;
     padding: 15px;
     height: 780px;
-    width: auto;
+    width: 780px;
 }
 
 h3{
