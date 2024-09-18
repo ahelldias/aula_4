@@ -3,7 +3,7 @@
 }
 
 main{
-    border: 2px solid whitesmoke;
+    border: 2px solid rgb(110, 198, 159);
     padding: 15px;
     height: 780px;
     width: 780px;
@@ -25,6 +25,12 @@ h3{
 img {
     height: 130px;
     width: 130px;
+}
+
+.centralizar{
+    display: flex;
+    justify-content: center;
+
 }
 
 .amarelo{
